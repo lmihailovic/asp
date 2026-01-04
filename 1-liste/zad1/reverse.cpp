@@ -6,7 +6,7 @@ struct ListNode
 
 ListNode* okreniListu(ListNode* glava)
 {
-    ListNode* trenutni = glava;  // glava liste
+    ListNode* trenutni = glava; // glava liste
     ListNode* prosli = NULL;    // pokazivac za prethodni element
     ListNode* sledeci = NULL;   // pokazivac na sledeci elemenet
 
