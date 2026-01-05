@@ -9,6 +9,7 @@ strukture podataka_, koji se održava na Računarskom fakultetu.
 > Programski kodovi su pisani u C++.
 
 ### Stil formatiranja koda
+
 - Sve promenljive su na srpskom jeziku.
 - Uvlačenje je po K&R stilu.
 - Komentari su poravnati sa najbližom tabulatorskom kolonom u svojoj logičkoj celini.
