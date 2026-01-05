@@ -1,6 +1,6 @@
 struct ListNode
 {
-    int val;
+    int vrednost;
     struct ListNode *sledeci;
 };
 
