@@ -37,6 +37,9 @@ ListNode* spojiListe(ListNode* lista1, ListNode* lista2)
         }
     }
 
+
+    // while petlje ispod služe da dodaju preostale elemente od duže liste (slučaj kada nisu iste dužine)
+
     while (lista1) {
         tmp->sledeci = lista1;
         tmp = tmp->sledeci;
