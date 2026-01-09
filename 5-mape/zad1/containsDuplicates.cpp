@@ -1,6 +1,6 @@
 bool sadrziDuplikate(vector<int>& niz)
 {
-    // inicijalizujemo praznu mapu...
+    // inicijalizujemo praznu mapu,
     // sa kljucem int, i vrednoscu bool za svaki kljuc
     unordered_map<int, bool> mapa;
 
