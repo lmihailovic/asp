@@ -15,5 +15,6 @@
 7. [Написати функцију која проверава да ли је дати судоку валидан.](zad7/README.md)
 
 ### TO DO
-1. Bolje komentarisati [zadatak 4](zad4/subarraySum.cpp)
-2. Ivični slučaj unosa `S = "aa"` i `T = "aa"` u [zadatku 6](zad6/shortestSubstring.cpp)
+1. Bolje komentarisati [zadatak 4](zad4/subarraySum.cpp).
+2. Ivični slučaj unosa `S = "aa"` i `T = "aa"` u [zadatku 6](zad6/shortestSubstring.cpp).
+3. Uraditi [zadatak 7](zad7/README.md).
