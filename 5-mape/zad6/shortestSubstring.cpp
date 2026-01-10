@@ -6,8 +6,10 @@ string najmanjiPodstring(string s, string t)
     int duzinaT = t.size();
     int duzinaS = s.size();
 
+    // leva i desna granica naseg podstringa
     int levo = 0;
     int desno = 0;
+
     int iskorisceniKarakteri = 0;
 
     int pocetakResenja = 0;
