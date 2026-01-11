@@ -1,7 +1,5 @@
 int podelaCokoladica(vector<int> paketi, int k)
 {
-    int n = paketi.size();
-
     sort(paketi.begin(), paketi.end());
 
     int najmanjaRazlika = -1;
